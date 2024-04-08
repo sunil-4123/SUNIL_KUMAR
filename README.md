@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Sunil Kumar</h1>
-<h3 align="center">A ece Junior who loves exploring and learning new things</h3>
+<h3 align="center">A ECE Junior who loves exploring and learning new things</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=snehakumari3&label=Profile%20views&color=0e75b6&style=flat" alt="snehakumari3" /> </p>
 <ul>
@@ -18,20 +18,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehakumari3&show_icons=true&locale=en&layout=compact" alt="snehakumari3" />
 </p>
 <p align="center">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehakumari3&show_icons=true&locale=en" alt="snehakumari3" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehakumari3&show_icons=true&locale=en" alt="sunil" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehakumari3&" alt="snehakumari3" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehakumari3&" alt="sunil" />
 </p>
 
 
 
-<h2 align="center">🙋‍♀️Connect with me</h2>
+<h2 align="center">Connect with me</h2>
 <div align="center">
-<a href="https://linkedin.com/in/sneha-kumari-2861a9206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha-kumari-2861a9206" height="30" width="50" /></a>
-<a href="https://instagram.com/sneha__03_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sneha__03_" height="30" width="50" /></a>
-<a href="https://www.codechef.com/users/sneha_kumari3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sneha_kumari3" height="30" width="50" /></a>
-<a href="https://www.hackerrank.com/snehak_ug20_cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="snehak_ug20_cse" height="30" width="50" /></a>
-<a href="https://codeforces.com/profile/sneha_kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sneha_kumari" height="30" width="50" /></a>
-<a href="https://www.leetcode.com/snehakumari3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="snehakumari3" height="30" width="50" /></a>
+<a href="https://www.linkedin.com/in/sunil-kumar-b17997229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunil" height="30" width="50" /></a>
+<a href="https://www.codechef.com/users/sunilkumar_922" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sunil" height="30" width="50" /></a>
+<a href="https://www.hackerrank.com/profile/sunilkumarsaxen1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sunil" height="30" width="50" /></a>
+<a href="https://leetcode.com/sunilkumar_9142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sunil" height="30" width="50" /></a>
 </div>
